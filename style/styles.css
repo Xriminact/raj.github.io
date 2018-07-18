@@ -1,0 +1,121 @@
+#topbot{
+   margin-left: 30px;
+   margin-top: 30px;
+   color: white;
+}
+#showbot{
+   color: white;
+}
+#facebot,#instabot{
+  color: white;
+}
+body{
+  background-color: #121111;
+}
+#typing_effect_1,#typing_effect_2,#typing_effect_3,#typing_effect_4{
+  color: white;
+  margin-left: 32px;
+}
+#typing_effect_1{
+  margin-top: 120px;
+  LINE-HEIGHT: 20px;
+  font-size-adjust: 0.4
+}
+#mainend{
+  LINE-HEIGHT: 30px;
+  color: white
+}
+#typing_effect_2{
+  margin-top: 10px;
+  LINE-HEIGHT:20px;
+  font-size-adjust: 0.4
+}
+#typing_effect_3,#typing_effect_4{
+  font-weight: lighter;
+  margin-left: 32px;
+  LINE-HEIGHT:10px;
+}
+h4{
+  color: white;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #121111;
+    font-family: Arial, Courier;
+}
+.ending{
+  float: left;
+  text-align: center;
+  position: fixed;
+  margin-top: 130px;
+}
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #121111;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0);
+    z-index: 1;
+}
+
+.dropdown-content1:hover,.dropdown-content2:hover{
+  text-decoration: underline;
+}
+
+.dropdown-content a {
+    float: none;
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.ending a {
+    float: none;
+    color: white;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #121111;
+}
+
+.ending a:hover {
+    background-color: #121111;
+    text-decoration: underline;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+ol,ul {
+    list-style:none;
+}
